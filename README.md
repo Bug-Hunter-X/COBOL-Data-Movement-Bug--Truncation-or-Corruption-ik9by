@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in COBOL programs involving data movement. The bug occurs when moving data between areas of different lengths.  The solution addresses this by ensuring that the receiving field is large enough to accommodate the data being moved.  The bug and solution are provided as COBOL code samples.
